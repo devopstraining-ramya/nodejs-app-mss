@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.40.35.125:9980/mithuntechnologies/repository/nodejs-mssrepo/"
+    "registry": "http://65.2.142.192:9133/nexusdevops/repository/nodejsrepo-ramya/"
   },
   
   "scripts": {
