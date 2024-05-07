@@ -5,8 +5,7 @@
   "main": "app.js",
   "publishConfig": {
     "registry": "http://65.2.142.192:9133/nexusdevops/repository/nodejsrepo-ramya/"
-      _auth="YWRtaW46SmVzd2lrYUAyMDE5"
-      always-auth=true
+  
   },
   
   "scripts": {
